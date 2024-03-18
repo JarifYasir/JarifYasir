@@ -1,11 +1,11 @@
- Hi, I’m Jarif
-I’m interested in programming
-I’m currently studying Computer Science at Western University
-I’m looking to collaborate on software development projects
-How to reach me: 
-Email: jyasir@uwo.ca
-Phone: 6477071759
-Website: (Coming soon)
+- Hi, I’m Jarif
+- I’m interested in programming
+- I’m currently studying Computer Science at Western University
+- I’m looking to collaborate on software development projects
+- How to reach me: 
+     - Email: jyasir@uwo.ca
+     - Phone: 6477071759
+     - Website: (Coming soon)
 
 
 <!---
