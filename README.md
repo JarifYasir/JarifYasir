@@ -1,4 +1,4 @@
-- Hi, I’m Jarif
+Jarif Yasir
 - I’m interested in programming, and digital media work
 - I’m currently studying Computer Science at Western University
 - I’m looking to collaborate on software development projects
